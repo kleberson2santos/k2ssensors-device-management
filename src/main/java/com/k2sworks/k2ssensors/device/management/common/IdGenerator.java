@@ -1,4 +1,4 @@
-package com.k2sworks.k2ssensors.device.management;
+package com.k2sworks.k2ssensors.device.management.common;
 
 import io.hypersistence.tsid.TSID;
 
